@@ -3,7 +3,7 @@ Just a Chargify-green theme for Chrome.  This is handy for differentiating diffe
 # Installation
 
 1. Clone the repository
-2. Visit <chrome://extensions> in Chrome
+2. Visit `chrome://extensions` in Chrome
 3. Enable "Developer mode"
 4. Click "Load unpacked extension..."
 5. Select this repository directory
